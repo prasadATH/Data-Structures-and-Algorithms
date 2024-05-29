@@ -1,0 +1,27 @@
+The table shows time records of 3 sorting methods tested using
+4 different types for 4 different array sizes. The 3 sorting techniques
+ tested are Bubble sort, Insertion sort and selection sort in which bubble
+ sort uses the method of comparing adjacent pairs and swapping them if
+ they are not in order, insertion sort checks each element and adds it to the 
+correct place comparing values in either sides and selection sort
+Select smallest item and swap it with the necessary item to build the sorted array.
+
+When the time Complexity of bubble sort and insertion sort is considered they show O(N) 
+Complexity in the best case and O(N2) Complexity in average and worst cases But Insertion
+sort is considered to be better due lessser number of swaps unlike bubble sort.
+Time complexity of selection sort in best, average and worst case is given as O(N2) 
+since it has equal number of passes in all 3 cases.
+
+In the table of records, a common feature of time increment is seen with increase of 
+the array size.It is crystal clear that insertion sort uses lesser amount of 
+time in sorting the data in all the four cases ascending, descending, random order
+and nearly sorted, and With lesser amount of data it is nearly 4% to 5% of the time used 
+by other sorting methods.But Ascending type consumes significantly lower values compared 
+to all the time durations in the shown records. An average of five readings were obtained for each value of the
+shown table and from it insertion sort showed solid stable values in each attempt than
+ other two methods.
+
+Generally the time used to sort the array in Ascending order, descending order,
+ random order and nearly sorted is lesser in selection sorting method that bubble sort method.
+Bubble sorting method uses lesser time in Ascending  and nearly sorted methods than other 
+the other two types(descending order and random order).

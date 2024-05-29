@@ -1,0 +1,1 @@
+please be kind enough to change the file path in main method and fileSize method in the program before executing.
